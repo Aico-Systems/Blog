@@ -1,0 +1,93 @@
+/* AICO Design Tokens — P1 Triad Arctic Ops
+ * Generated from Brand Guide 2026
+ * Source of truth: Branding/AICO/Brand-Guide.typ
+ */
+
+:root {
+  /* ── Brand / structure ───────────────────────────────────── */
+  --color-midnight: #0B1226;
+  --color-petrol: #145B7A;
+  --gradient-brand: linear-gradient(135deg, #0B1226, #145B7A);
+
+  /* ── Interaction (Arctic Mint) ───────────────────────────── */
+  --color-interactive: #A7F3D0;
+  --color-interactive-hover: #6EE7B7;
+  --color-focus-ring: #A7F3D0;
+  --color-signal: #5EEAD4;
+
+  /* ── Semantic ───────────────────────────────────────────── */
+  --color-info: #3B82F6;
+  --color-success: #22C55E;
+  --color-warning: #F59E0B;
+  --color-danger: #EF4444;
+
+  /* ── Logo (mark only — do not use elsewhere) ────────────── */
+  --color-logo-mint: #A7F3D0;
+  --color-logo-petrol: #145B7A;
+
+  /* ── Slate scale ────────────────────────────────────────── */
+  --slate-950: #020617;
+  --slate-900: #0F172A;
+  --slate-800: #1E293B;
+  --slate-700: #334155;
+  --slate-600: #475569;
+  --slate-500: #64748B;
+  --slate-400: #94A3B8;
+  --slate-300: #CBD5E1;
+  --slate-200: #E2E8F0;
+  --slate-100: #F1F5F9;
+  --slate-50: #F8FAFC;
+
+  /* ── Surfaces — light mode ──────────────────────────────── */
+  --surface-bg: var(--slate-50);
+  --surface-card: #FFFFFF;
+  --surface-elevated: #FFFFFF;
+  --text-primary: #0F172A;
+  --text-muted: var(--slate-500);
+  --text-subtle: var(--slate-400);
+  --text-link: var(--color-interactive);
+  --border-default: var(--slate-200);
+  --border-interactive: var(--color-interactive);
+  --icon-accent: var(--color-interactive);
+
+  /* ── Chart colors (P1 triad derived) ────────────────────── */
+  --chart-1: #145B7A;
+  --chart-2: #A7F3D0;
+  --chart-3: #5EEAD4;
+  --chart-4: #0B1226;
+  --chart-5: #94A3B8;
+}
+
+/* ── Dark mode ──────────────────────────────────────────── */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --surface-bg: var(--color-midnight);
+    --surface-card: var(--slate-800);
+    --surface-elevated: var(--slate-700);
+    --text-primary: var(--slate-50);
+    --text-muted: var(--slate-400);
+    --text-subtle: var(--slate-500);
+    --text-link: var(--color-interactive);
+    --border-default: var(--slate-700);
+    --border-interactive: var(--color-interactive);
+    --icon-accent: var(--color-interactive);
+  }
+}
+
+/* ── Figma style references ─────────────────────────────── *
+ *
+ *  Color Styles:
+ *    Brand/Midnight       → #0B1226
+ *    Brand/Petrol         → #145B7A
+ *    Interactive/Default  → #A7F3D0
+ *    Interactive/Hover    → #6EE7B7
+ *    Signal/Active        → #5EEAD4
+ *    Semantic/Info        → #3B82F6
+ *    Semantic/Success     → #22C55E
+ *    Semantic/Warning     → #F59E0B
+ *    Semantic/Danger      → #EF4444
+ *
+ *  Effect Styles:
+ *    Focus Ring           → 0 0 0 2px #A7F3D0
+ *    Gradient/Brand       → 135° #0B1226 → #145B7A
+ */

@@ -1,0 +1,20 @@
+AICOYO - UNTERNEHMENSBEWERTUNG,,,,
+,,,,
+1. Replacement Cost (Plattform nachbauen),,,,
+Methode,Min (EUR),Max (EUR),Durchschnitt,Kommentar
+Deutsche Agentur,"360,000 €","430,000 €","395,000 €",3.600h @ 100-120 EUR/h
+Deutsche Freelancer,"240,000 €","300,000 €","270,000 €",3.000h @ 80-100 EUR/h
+Offshore-Team,"140,000 €","205,000 €","172,500 €",3.200h @ 45-65 EUR/h
+DURCHSCHNITT,"246,667 €","311,667 €","279,167 €",
+,,,,
+2. Arbeitszeit (Opportunity Cost),,,,
+Szenario,Stunden,Rate (EUR/h),Wert (EUR),Annahme
+"Konservativ (8 Mo, 50h/Wo)","1,733",80 €,"138,640 €",Minimum
+"Realistisch (10 Mo, 55h/Wo)","2,383",95 €,"226,385 €",Wahrscheinlichster Fall
+"Optimistisch (12 Mo, 65h/Wo)","3,380",110 €,"371,800 €",Maximum
+,,,,
+3. Bewertungsszenarien (Firma Heute),,,,
+Szenario,Min (EUR),Max (EUR),Mittelpunkt,Begründung
+Pessimistisch,"800,000 €","1,300,000 €","1,050,000 €","Nur Code-Wert, kein Team"
+Realistisch,"2,000,000 €","3,000,000 €","2,500,000 €",Feature-complete + Kunden + Investor
+Optimistisch,"3,000,000 €","4,500,000 €","3,750,000 €",Automotive-Nische + DACH
