@@ -1,0 +1,91 @@
+Part ID,Reihe,PART Offiziell,Synonym 1,Synonym 2,Synonym 3,English 1,English 2,Turkish,Arabic,Spanish,Italian
+,1,Frontstoßstange,Frontschürze,vordere Plastikstoßstange,Frontpartie,front bumper,front plastic bumper,ön tampon,masadd amami,parachoques delantero,paraurti anteriore
+,1,Stoßstangenabdeckung,Stoßfängerverkleidung,vordere Plastikabdeckung,Plastikfront,bumper cover,front plastic cover,tampon kapağı,ghita al-masadd,cubierta del parachoques,copertura paraurti
+,1,Kühlergrill,Frontgitter,Plastikgitter,Kühlergitter,grille,front grate,ön panjur,shabak amami,parrilla delantera,griglia del radiatore
+,1,Frontlippe / Spoilerlippe,Bugspoiler,Gummilippe,untere Spoilerkante,front lip,bottom lip,ön lip,shiffa amamiya,labio delantero,labbro anteriore
+,1,Motorhaube,Fronthaube,vorderer Deckel,vordere Klappe,hood,front lid,motor kaputu,ghita al-muharrik,capó,cofano motore
+,1,Frontscheinwerfer links,Hauptscheinwerfer Links,linkes Vorderlicht,linkes Vorderlicht,left headlight,left front light,sol ön far,misbah amami aysar,faro delantero izquierdo,faro anteriore sinistro
+,1,Frontscheinwerfer rechts,Hauptscheinwerfer Rechts,rechtes Vorderlicht,rechtes Vorderlicht,right headlight,right front light,sağ ön far,misbah amami ayman,faro delantero derecho,faro anteriore destro
+,1,Nebelscheinwerfer,Nebellampe,Zusatzlicht unten,Nebellicht,fog light,bottom light,sis farı,misbah dhabab,faro antiniebla,fendinebbia
+,1,Tagfahrlicht,Tagfahrleuchte,LED-Streifen,LED Licht,daytime running light,led strip,gündüz farı,ida'a nahariya,luz de circulación diurna,luce di marcia diurna
+,1,Blinker vorne,Fahrtrichtungsanzeiger Vorne,vorderes Blinklicht,vorderer Blinker,front turn signal,front blinker,ön sinyal,isharat in'itaf amamiya,intermitente delantero,indicatore di direzione anteriore
+,1,Radlauf vorne links,Radkasten Vorne Links,linke Kotflügelkante,Blech überm linken Vorderreifen,left front wheel arch,left front wheel edge,sol ön çamurluk ağzı,qaws ajala amami aysar,paso de rueda delantero izquierdo,passaruota anteriore sinistro
+,1,Radlauf vorne rechts,Radkasten Vorne Rechts,rechte Kotflügelkante,Blech überm rechten Vorderreifen,right front wheel arch,right front wheel edge,sağ ön çamurluk ağzı,qaws ajala amami ayman,paso de rueda delantero derecho,passaruota anteriore destro
+,1,Kotflügel vorne links,Vorderes Seitenteil Links,linkes vorderes Blech,linke vordere Autoseite,left front fender,left front metal piece,sol ön çamurluk,rafraf amami aysar,aleta delantera izquierda,parafango anteriore sinistro
+,1,Kotflügel vorne rechts,Vorderes Seitenteil Rechts,rechtes vorderes Blech,rechte vordere Autoseite,right front fender,right front metal piece,sağ ön çamurluk,rafraf amami ayman,aleta delantera derecha,parafango anteriore destro
+,1,Frontscheibe,Windschutzscheibe,vorderes Fenster,vorderes Glas,windshield,front glass,ön cam,zujaj amami,parabrisas,parabrezza
+,1,Motorhaubenschloss,Haubenverriegelung,vorderes Schloss,Haubenverschluss,hood latch,hood lock,kaput kilidi,qufl ghita al-muharrik,cerradura del capó,serratura del cofano
+,2,Kühler,Wasserkühler,Motorkühler,Wassertank,radiator,water cooler,radyatör,radiyatir,radiador,radiatore
+,2,Ladeluftkühler,Intercooler,Turbokühler,Kühlrippen,intercooler,turbo cooler,intercooler,mubarrid hawa ash-shahn,intercooler,intercooler
+,2,Klimakondensator,Klimakühler,Klimaradiator,Klimakühler,ac condenser,ac radiator,klima radyatörü,mukaththif al-mukayyif,condensador del aire acondicionado,condensatore del climatizzatore
+,2,Crashträger vorne,Frontquerträger,vorderer Aufprallschutz,vordere Stange,front crash bar,front crash support,ön tampon demiri,di'amat saddam amamiya,traviesa delantera,traversa anteriore
+,1,Vordertür links,Fahrertür,linke Vordertür,Fahrertüre,left front door,driver door,sol ön kapı,bab amami aysar,puerta delantera izquierda,portiera anteriore sinistra
+,1,Hintertür links,Fondtür Links,linke Hintertür,linke Hintertüre,left rear door,left back door,sol arka kapı,bab khalfi aysar,puerta trasera izquierda,portiera posteriore sinistra
+,1,Außenspiegel links,Seitenspiegel Links,linker Rückspiegel,Spiegel Fahrerseite,left side mirror,driver side mirror,sol yan ayna,mir'at janibiya yusra,espejo retrovisor izquierdo,specchietto retrovisore sinistro
+,1,Türgriff links,Türöffner Links,linke Türklinke,linker äußerer Türgriff,left door handle,left outside handle,sol kapı kolu,miqbad bab aysar,manilla de puerta izquierda,maniglia della portiera sinistra
+,1,Seitenschweller links,Schweller Links,linke Einstiegsleiste,linke Einstiegskante,left side skirt,left bottom edge,sol marşpiyel,ataba janibiya yusra,faldón lateral izquierdo,minigonna laterale sinistra
+,1,Seitenwand links,Karosserieflanke Links,linkes hinteres Blech,linke hintere Autoseite,left quarter panel,left back panel,sol yan panel,lawh janibi aysar,panel lateral izquierdo,pannello laterale sinistro
+,1,Radlauf hinten links,Radkasten Hinten Links,linke hintere Radkante,Blech überm linken Hinterreifen,left rear wheel arch,left back wheel edge,sol arka çamurluk ağzı,qaws ajala khalfi aysar,paso de rueda trasero izquierdo,passaruota posteriore sinistro
+,1,Fenster vorne links,Seitenscheibe Vorne Links,linkes Fahrerfenster,Fahrerscheibe,left front window,driver window,sol ön yan cam,nafidha amamiya yusra,ventanilla delantera izquierda,finestrino anteriore sinistro
+,1,Fenster hinten links,Seitenscheibe Hinten Links,linkes hinteres Fenster,linke hintere Scheibe,left rear window,left back window,sol arka yan cam,nafidha khalfiya yusra,ventanilla trasera izquierda,finestrino posteriore sinistro
+,2,B-Säule links,Mittelpfosten Links,linker mittlerer Holm,linke mittlere Säule,left b-pillar,left middle pillar,sol b sütunu,amud ba aysar,pilar b izquierdo,montante b sinistro
+,2,C-Säule links,Heckpfosten Links,linker hinterer Holm,linke hintere Säule,left c-pillar,left back pillar,sol c sütunu,amud jim aysar,pilar c izquierdo,montante c sinistro
+,1,Seitenscheibe hinten links,Fondfenster Links,linkes Kofferraumfenster,kleines linkes Fenster hinten,left rear quarter glass,left small back window,sol arka kelebek camı,zujaj janibi khalfi aysar,luna lateral trasera izquierda,finestrino laterale posteriore sinistro
+,1,Vordertür rechts,Beifahrertür,rechte Vordertür,Beifahrertüre,right front door,passenger door,sağ ön kapı,bab amami ayman,puerta delantera derecha,portiera anteriore destra
+,1,Hintertür rechts,Fondtür Rechts,rechte Hintertür,rechte Hintertüre,right rear door,right back door,sağ arka kapı,bab khalfi ayman,puerta trasera derecha,portiera posteriore destra
+,1,Außenspiegel rechts,Seitenspiegel Rechts,rechter Rückspiegel,Spiegel Beifahrerseite,right side mirror,passenger side mirror,sağ yan ayna,mir'at janibiya yumna,espejo retrovisor derecho,specchietto retrovisore destro
+,1,Türgriff rechts,Türöffner Rechts,rechte Türklinke,rechter äußerer Türgriff,right door handle,right outside handle,sağ kapı kolu,miqbad bab ayman,manilla de puerta derecha,maniglia della portiera destra
+,1,Seitenschweller rechts,Schweller Rechts,rechte Einstiegsleiste,rechte Einstiegskante,right side skirt,right bottom edge,sağ marşpiyel,ataba janibiya yumna,faldón lateral derecho,minigonna laterale destra
+,1,Seitenwand rechts,Karosserieflanke Rechts,rechtes hinteres Blech,rechte hintere Autoseite,right quarter panel,right back panel,sağ yan panel,lawh janibi ayman,panel lateral derecho,pannello laterale destro
+,1,Radlauf hinten rechts,Radkasten Hinten Rechts,rechte hintere Radkante,Blech überm rechten Hinterreifen,right rear wheel arch,right back wheel edge,sağ arka çamurluk ağzı,qaws ajala khalfi ayman,paso de rueda trasero derecho,passaruota posteriore destro
+,1,Fenster vorne rechts,Seitenscheibe Vorne Rechts,rechtes Beifahrerfenster,Beifahrerscheibe,right front window,passenger window,sağ ön yan cam,nafidha amamiya yumna,ventanilla delantera derecha,finestrino anteriore destro
+,1,Fenster hinten rechts,Seitenscheibe Hinten Rechts,rechtes hinteres Fenster,rechte hintere Scheibe,right rear window,right back window,sağ arka yan cam,nafidha khalfiya yumna,ventanilla trasera derecha,finestrino posteriore destro
+,2,B-Säule rechts,Mittelpfosten Rechts,rechter mittlerer Holm,rechte mittlere Säule,right b-pillar,right middle pillar,sağ b sütunu,amud ba ayman,pilar b derecho,montante b destro
+,2,C-Säule rechts,Heckpfosten Rechts,rechter hinterer Holm,rechte hintere Säule,right c-pillar,right back pillar,sağ c sütunu,amud jim ayman,pilar c derecho,montante c destro
+,1,Seitenscheibe hinten rechts,Fondfenster Rechts,rechtes Kofferraumfenster,kleines rechtes Fenster hinten,right rear quarter glass,right small back window,sağ arka kelebek camı,zujaj janibi khalfi ayman,luna lateral trasera derecha,finestrino laterale posteriore destro
+,1,Heckstoßstange,Heckschürze,hintere Plastikstoßstange,hintere Stoßstange,rear bumper,back plastic bumper,arka tampon,masadd khalfi,parachoques trasero,paraurti posteriore
+,1,Heckstoßstangenträger,Heckquerträger,hinterer Aufprallschutz,hinterer Träger,rear bumper reinforcement,back crash bar,arka tampon demiri,di'amat saddam khalfiya,traviesa trasera,traversa posteriore
+,1,Kofferraumdeckel,Heckdeckel,hinterer Klappendeckel,Kofferraumtür,trunk lid,trunk door,bagaj kapağı,ghita as-sunduq,tapa del maletero,cofano bagagliaio
+,1,Heckklappe,Kofferraumklappe,fünfte Tür,Kofferraum,tailgate,boot,arka kapı,bab as-sunduq al-khalfi,portón trasero,portellone posteriore
+,1,Heckscheibe,Rückfenster,hinteres Autoglas,hinteres Glas,rear window,back glass,arka cam,zujaj khalfi,luneta trasera,lunotto
+,1,Rücklicht links,Heckleuchte Links,linke Rücklampe,linkes Rücklicht,left taillight,left back light,sol stop lambası,misbah khalfi aysar,piloto trasero izquierdo,fanale posteriore sinistro
+,1,Rücklicht rechts,Heckleuchte Rechts,rechte Rücklampe,rechtes Rücklicht,right taillight,right back light,sağ stop lambası,misbah khalfi ayman,piloto trasero derecho,fanale posteriore destro
+,1,Kennzeichenhalter,Nummernschildhalterung,Kennzeichenrahmen,Nummernschildhalter,license plate holder,license plate frame,plakalık,hamil lawhat at-targhis,portamatrículas,portatarga
+,1,Heckspoiler,Dachspoiler,Heckflügel,hinterer Flügel,rear spoiler,back wing,arka spoiler,janah khalfi,alerón trasero,spoiler posteriore
+,1,Heckklappenschloss,Kofferraumschloss,hintere Verriegelung,Kofferraumschloss,trunk latch,trunk lock,bagaj kilidi,qufl as-sunduq al-khalfi,cerradura del maletero,serratura del bagagliaio
+,1,Dach,Fahrzeugdach,oberes Autoblech,Autodach,roof,car top,tavan,saqf,techo,tetto
+,1,Dachreling links,Dachschiene Links,linker Dachträger,linke Dachleiste,left roof rail,left roof bar,sol tavan çıtası,sikkat saqf yusra,raíl de techo izquierdo,barra portatutto sinistra
+,1,Dachreling rechts,Dachschiene Rechts,rechter Dachträger,rechte Dachleiste,right roof rail,right roof bar,sağ tavan çıtası,sikkat saqf yumna,raíl de techo derecho,barra portatutto destra
+,1,Schiebedach,Glasdach,Dachluke,Dachfenster,sunroof,moonroof,açılır tavan,fathat saqf,techo solar,tetto apribile
+,1,Panoramadach,Panoramaglasdach,großes Glasdach,Glasdach,panoramic roof,glass roof,cam tavan,saqf banurami,techo panorámico,tetto panoramico
+,1,Antenne / Haifischantenne,Dachantenne,Dachflosse,Radioantenne,shark fin antenna,radio fin,köpekbalığı anten,hawa'i,antena,antenna
+,1,Unterboden,Fahrzeugboden,Wagenboden,Autoboden,undercarriage,car bottom,araç altı,haykal sufli,bajos del vehículo,sottoscocca
+,1,Unterfahrschutz,Motorschutz,Plastikwanne unten,Bodenplatte,skid plate,bottom plastic pan,karter koruma,dir himaya sufli,cubre cárter,paramotore
+,2,Vorderachse,Frontachse,vordere Radaufhängung,vordere Aufhängung,front axle,front suspension,ön dingil,mihwar amami,eje delantero,asse anteriore
+,2,Hinterachse,Heckachse,hintere Radaufhängung,hintere Aufhängung,rear axle,back suspension,arka dingil,mihwar khalfi,eje trasero,asse posteriore
+,2,Querlenker,Achslenker,Radaufhängungsarm,Achsstange,control arm,suspension arm,salıncak,miqass ta'liq,brazo de suspensión,braccio oscillante
+,2,Stoßdämpfer,Schwingungsdämpfer,Federbein,Dämpfer,shock absorber,shock,amortisör,mumtass saddamat,amortiguador,ammortizzatore
+,2,Feder,Fahrwerksfeder,Spiralfeder,Fahrwerksfederung,coil spring,suspension spring,yay,nabid ta'liq,muelle de suspensión,molla
+,2,Stabilisator,Wankstütze,Stabi,Querstange,sway bar,roll bar,denge çubuğu,amud tawazun,barra estabilizadora,barra stabilizzatrice
+,2,Bremsanlage vorne,Vorderradbremse,vordere Bremsen,vordere Bremsen,front brakes,front brake pads,ön frenler,faramil amamiya,frenos delanteros,freni anteriori
+,2,Bremsanlage hinten,Hinterradbremse,hintere Bremsen,hintere Bremsen,rear brakes,back brake pads,arka frenler,faramil khalfiya,frenos traseros,freni posteriori
+,1,Felge vorne links,Radfelge Vorne Links,linke vordere Alufelge,linke Vorderfelge,left front rim,left front alloy,sol ön jant,jant amami aysar,llanta delantera izquierda,cerchio anteriore sinistro
+,1,Felge vorne rechts,Radfelge Vorne Rechts,rechte vordere Alufelge,rechte Vorderfelge,right front rim,right front alloy,sağ ön jant,jant amami ayman,llanta delantera derecha,cerchio anteriore destro
+,1,Felge hinten links,Radfelge Hinten Links,linke hintere Alufelge,linke Hinterfelge,left rear rim,left back alloy,sol arka jant,jant khalfi aysar,llanta trasera izquierda,cerchio posteriore sinistro
+,1,Felge hinten rechts,Radfelge Hinten Rechts,rechte hintere Alufelge,rechte Hinterfelge,right rear rim,right back alloy,sağ arka jant,jant khalfi ayman,llanta trasera derecha,cerchio posteriore destro
+,1,Reifen vorne links,Pneu Vorne Links,linker Vorderreifen,linker Vorderreifen,left front tire,left front tire,sol ön lastik,itar amami aysar,neumático delantero izquierdo,pneumatico anteriore sinistro
+,1,Reifen vorne rechts,Pneu Vorne Rechts,rechter Vorderreifen,rechter Vorderreifen,right front tire,right front tire,sağ ön lastik,itar amami ayman,neumático delantero derecho,pneumatico anteriore destro
+,1,Reifen hinten links,Pneu Hinten Links,linker Hinterreifen,linker Hinterreifen,left rear tire,left back tire,sol arka lastik,itar khalfi aysar,neumático trasero izquierdo,pneumatico posteriore sinistro
+,1,Reifen hinten rechts,Pneu Hinten Rechts,rechter Hinterreifen,rechter Hinterreifen,right rear tire,right back tire,sağ arka lastik,itar khalfi ayman,neumático trasero derecho,pneumatico posteriore destro
+,1,Armaturenbrett,Instrumententafel,Cockpit,Armaturenkasten,dashboard,dash,ön konsol,lawhat al-qiyada,salpicadero,cruscotto
+,1,Lenkrad,Steuerrad,Steuer,Lenker,steering wheel,steering,direksiyon,ajalat al-qiyada,volante,volante
+,1,Fahrerairbag,Lenkradairbag,vorderes Luftkissen,Lenkradairbag,driver airbag,steering wheel airbag,sürücü hava yastığı,wisada hawa'iya lis-sa'iq,airbag del conductor,airbag guidatore
+,1,Beifahrerairbag,Armaturenbrettairbag,rechtes Luftkissen,Beifahrerluftkissen,passenger airbag,passenger side airbag,yolcu hava yastığı,wisada hawa'iya lir-rakib,airbag del copiloto,airbag passeggero
+,1,Sitz Fahrer,Fahrersitz,linker Vordersitz,Fahrersitzplatz,driver seat,driver seat,sürücü koltuğu,miq'ad as-sa'iq,asiento del conductor,sedile guidatore
+,1,Sitz Beifahrer,Beifahrersitz,rechter Vordersitz,Beifahrersitzplatz,passenger seat,passenger seat,yolcu koltuğu,miq'ad ar-rakib,asiento del copiloto,sedile passeggero
+,1,Rückbank,Fondsitzbank,hintere Sitze,hintere Sitzreihe,back seat,rear seats,arka koltuklar,miq'ad khalfi,asiento trasero,sedili posteriori
+,1,Sicherheitsgurt,Anschnallgurt,Autogurt,Anschnaller,seatbelt,seatbelt buckle,emniyet kemeri,hizam al-aman,cinturón de seguridad,cintura di sicurezza
+,1,Mittelkonsole,Mitteltunnel,Ablage in der Mitte,Mittelablage,center console,middle console,orta konsol,kunsul wasati,consola central,console centrale
+,1,Infotainment Bildschirm,Zentraldisplay,Navibildschirm,Radiodisplay,infotainment screen,radio screen,multimedya ekranı,shashat ma'lumat,pantalla de infoentretenimiento,schermo infotainment
+,1,Innenverkleidung Tür links,Türpappe Links,linke Türplastik,linke Türinnenwand,left interior door panel,left inner door plastic,sol kapı döşemesi,bitanat bab yusra,panel interior de puerta izquierda,pannello interno portiera sinistra
+,1,Innenverkleidung Tür rechts,Türpappe Rechts,rechte Türplastik,rechte Türinnenwand,right interior door panel,right inner door plastic,sağ kapı döşemesi,bitanat bab yumna,panel interior de puerta derecha,pannello interno portiera destra
